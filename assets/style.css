@@ -365,9 +365,11 @@ footer {
   .picture {
     width: 80%;
   }
-  footer {
-    p {
-      font-size: 0.8rem;
-    }
+  footer p {
+      font-size: 0.8rem;     
+  }
+  footer a {
+    text-decoration: none;
+    color: white;
   }
 }
